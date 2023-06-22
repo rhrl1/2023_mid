@@ -1,0 +1,11 @@
+C:\Users\konyang\Desktop\2003\VP02_2023-main\018_graph\bin\Debug\018_graph.exe.config
+C:\Users\konyang\Desktop\2003\VP02_2023-main\018_graph\bin\Debug\018_graph.exe
+C:\Users\konyang\Desktop\2003\VP02_2023-main\018_graph\bin\Debug\018_graph.pdb
+C:\Users\konyang\Desktop\2003\VP02_2023-main\018_graph\obj\Debug\018_graph.csproj.AssemblyReference.cache
+C:\Users\konyang\Desktop\2003\VP02_2023-main\018_graph\obj\Debug\018_graph.csproj.SuggestedBindingRedirects.cache
+C:\Users\konyang\Desktop\2003\VP02_2023-main\018_graph\obj\Debug\_018_graph.Form1.resources
+C:\Users\konyang\Desktop\2003\VP02_2023-main\018_graph\obj\Debug\_018_graph.Properties.Resources.resources
+C:\Users\konyang\Desktop\2003\VP02_2023-main\018_graph\obj\Debug\018_graph.csproj.GenerateResource.cache
+C:\Users\konyang\Desktop\2003\VP02_2023-main\018_graph\obj\Debug\018_graph.csproj.CoreCompileInputs.cache
+C:\Users\konyang\Desktop\2003\VP02_2023-main\018_graph\obj\Debug\018_graph.exe
+C:\Users\konyang\Desktop\2003\VP02_2023-main\018_graph\obj\Debug\018_graph.pdb
