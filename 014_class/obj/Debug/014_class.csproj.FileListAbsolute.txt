@@ -1,0 +1,8 @@
+C:\Users\konyang\Desktop\2003\VP02_2023-main\014_class\bin\Debug\014_class.exe.config
+C:\Users\konyang\Desktop\2003\VP02_2023-main\014_class\bin\Debug\014_class.exe
+C:\Users\konyang\Desktop\2003\VP02_2023-main\014_class\bin\Debug\014_class.pdb
+C:\Users\konyang\Desktop\2003\VP02_2023-main\014_class\obj\Debug\014_class.csproj.AssemblyReference.cache
+C:\Users\konyang\Desktop\2003\VP02_2023-main\014_class\obj\Debug\014_class.csproj.SuggestedBindingRedirects.cache
+C:\Users\konyang\Desktop\2003\VP02_2023-main\014_class\obj\Debug\014_class.csproj.CoreCompileInputs.cache
+C:\Users\konyang\Desktop\2003\VP02_2023-main\014_class\obj\Debug\014_class.exe
+C:\Users\konyang\Desktop\2003\VP02_2023-main\014_class\obj\Debug\014_class.pdb

@@ -1,0 +1,11 @@
+C:\Users\konyang\Desktop\2003\VP02_2023-main\009_checkBox\bin\Debug\009_checkBox.exe.config
+C:\Users\konyang\Desktop\2003\VP02_2023-main\009_checkBox\bin\Debug\009_checkBox.exe
+C:\Users\konyang\Desktop\2003\VP02_2023-main\009_checkBox\bin\Debug\009_checkBox.pdb
+C:\Users\konyang\Desktop\2003\VP02_2023-main\009_checkBox\obj\Debug\009_checkBox.csproj.AssemblyReference.cache
+C:\Users\konyang\Desktop\2003\VP02_2023-main\009_checkBox\obj\Debug\009_checkBox.csproj.SuggestedBindingRedirects.cache
+C:\Users\konyang\Desktop\2003\VP02_2023-main\009_checkBox\obj\Debug\_009_checkBox.Form1.resources
+C:\Users\konyang\Desktop\2003\VP02_2023-main\009_checkBox\obj\Debug\_009_checkBox.Properties.Resources.resources
+C:\Users\konyang\Desktop\2003\VP02_2023-main\009_checkBox\obj\Debug\009_checkBox.csproj.GenerateResource.cache
+C:\Users\konyang\Desktop\2003\VP02_2023-main\009_checkBox\obj\Debug\009_checkBox.csproj.CoreCompileInputs.cache
+C:\Users\konyang\Desktop\2003\VP02_2023-main\009_checkBox\obj\Debug\009_checkBox.exe
+C:\Users\konyang\Desktop\2003\VP02_2023-main\009_checkBox\obj\Debug\009_checkBox.pdb

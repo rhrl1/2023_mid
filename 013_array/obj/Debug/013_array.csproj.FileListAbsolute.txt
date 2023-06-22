@@ -1,0 +1,8 @@
+C:\Users\konyang\Desktop\2003\VP02_2023-main\013_array\bin\Debug\013_array.exe.config
+C:\Users\konyang\Desktop\2003\VP02_2023-main\013_array\bin\Debug\013_array.exe
+C:\Users\konyang\Desktop\2003\VP02_2023-main\013_array\bin\Debug\013_array.pdb
+C:\Users\konyang\Desktop\2003\VP02_2023-main\013_array\obj\Debug\013_array.csproj.AssemblyReference.cache
+C:\Users\konyang\Desktop\2003\VP02_2023-main\013_array\obj\Debug\013_array.csproj.SuggestedBindingRedirects.cache
+C:\Users\konyang\Desktop\2003\VP02_2023-main\013_array\obj\Debug\013_array.csproj.CoreCompileInputs.cache
+C:\Users\konyang\Desktop\2003\VP02_2023-main\013_array\obj\Debug\013_array.exe
+C:\Users\konyang\Desktop\2003\VP02_2023-main\013_array\obj\Debug\013_array.pdb
