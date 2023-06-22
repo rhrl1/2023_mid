@@ -1,0 +1,10 @@
+C:\Users\konyang\Desktop\2003\VP02_2023-main\23_TwoForms\bin\Debug\23_TwoForms.exe.config
+C:\Users\konyang\Desktop\2003\VP02_2023-main\23_TwoForms\bin\Debug\23_TwoForms.exe
+C:\Users\konyang\Desktop\2003\VP02_2023-main\23_TwoForms\bin\Debug\23_TwoForms.pdb
+C:\Users\konyang\Desktop\2003\VP02_2023-main\23_TwoForms\obj\Debug\23_TwoForms.csproj.AssemblyReference.cache
+C:\Users\konyang\Desktop\2003\VP02_2023-main\23_TwoForms\obj\Debug\23_TwoForms.csproj.SuggestedBindingRedirects.cache
+C:\Users\konyang\Desktop\2003\VP02_2023-main\23_TwoForms\obj\Debug\_23_TwoForms.Properties.Resources.resources
+C:\Users\konyang\Desktop\2003\VP02_2023-main\23_TwoForms\obj\Debug\23_TwoForms.csproj.GenerateResource.cache
+C:\Users\konyang\Desktop\2003\VP02_2023-main\23_TwoForms\obj\Debug\23_TwoForms.csproj.CoreCompileInputs.cache
+C:\Users\konyang\Desktop\2003\VP02_2023-main\23_TwoForms\obj\Debug\23_TwoForms.exe
+C:\Users\konyang\Desktop\2003\VP02_2023-main\23_TwoForms\obj\Debug\23_TwoForms.pdb
