@@ -1,0 +1,11 @@
+C:\Users\konyang\Desktop\2003\VP02_2023-main\007_MessageBoxes\bin\Debug\007_MessageBoxes.exe.config
+C:\Users\konyang\Desktop\2003\VP02_2023-main\007_MessageBoxes\bin\Debug\007_MessageBoxes.exe
+C:\Users\konyang\Desktop\2003\VP02_2023-main\007_MessageBoxes\bin\Debug\007_MessageBoxes.pdb
+C:\Users\konyang\Desktop\2003\VP02_2023-main\007_MessageBoxes\obj\Debug\007_MessageBoxes.csproj.AssemblyReference.cache
+C:\Users\konyang\Desktop\2003\VP02_2023-main\007_MessageBoxes\obj\Debug\007_MessageBoxes.csproj.SuggestedBindingRedirects.cache
+C:\Users\konyang\Desktop\2003\VP02_2023-main\007_MessageBoxes\obj\Debug\_007_MessageBoxes.Form1.resources
+C:\Users\konyang\Desktop\2003\VP02_2023-main\007_MessageBoxes\obj\Debug\_007_MessageBoxes.Properties.Resources.resources
+C:\Users\konyang\Desktop\2003\VP02_2023-main\007_MessageBoxes\obj\Debug\007_MessageBoxes.csproj.GenerateResource.cache
+C:\Users\konyang\Desktop\2003\VP02_2023-main\007_MessageBoxes\obj\Debug\007_MessageBoxes.csproj.CoreCompileInputs.cache
+C:\Users\konyang\Desktop\2003\VP02_2023-main\007_MessageBoxes\obj\Debug\007_MessageBoxes.exe
+C:\Users\konyang\Desktop\2003\VP02_2023-main\007_MessageBoxes\obj\Debug\007_MessageBoxes.pdb
